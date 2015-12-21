@@ -37,7 +37,7 @@
 }
 
 body {
-    background:#ededed url("../images/handmadepaper.png");
+    background:#ededed url("..//images/handmadepaper.png");
     color:#222;
     font-size:14px;
     line-height:20px;
@@ -84,7 +84,7 @@ footer {
 }
 
 section.dark {
-    background:#000 url("../images/txture.png");
+    background:#000 url("..//images/txture.png");
     margin:45px 0 0;
     padding:30px 0;
     color:#ddd;
@@ -144,7 +144,7 @@ blockquote.feature-quote {
 
 .feature.large {
     height:248px;
-    background:#000 url("../images/txture.png");
+    background:#000 url("..//images/txture.png");
     padding:80px 0 0;
     box-shadow:none;
 }
